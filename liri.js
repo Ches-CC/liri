@@ -133,7 +133,7 @@ switch (command) {
                                 if (err) {
                                   console.log(err);
                                 }else {
-                                    onsole.log("\n!!!----!!!\nUpgrade to Liri-PRO to log searches from Random.txt to Log.txt!!\nUpgrade to PRO with this SPECIAL OFFER" + 
+                                    console.log("\n!!!----!!!\nUpgrade to Liri-PRO to log searches from Random.txt to Log.txt!!\nUpgrade to PRO with this SPECIAL OFFER" + 
                                     "\nAvailable Today Only: $9.99/mo or $89.99/yr!\nPRO-Members receive UNLIMITED Random.txt-to-Log.txt transfers!!\nUPGRADE to PRO now @ http://www.chesslee.com !!\n!!!----!!!");
                                 }
                             });
