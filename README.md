@@ -28,17 +28,17 @@ As an added bonus the note the log.txt file logs all queries.
 
 
 
-![Gif spotify-this-song](./spotify-this-song.gif)
+![Gif spotify-this-song](./images/spotify-this-song.gif)
 
 
 
-![Gif movie-this](./movie-this.gif)
+![Gif movie-this](./images/movie-this.gif)
 
 
-![Gif do-what-it-says](./do-what-it-says.gif)
+![Gif do-what-it-says](./images/do-what-it-says.gif)
 
 
-![Image blank-queries](./blank-queries.png)
+![Image blank-queries](./images/blank-queries.png)
 
 
-![Image log-screencap](./log-screencap.png)
+![Image log-screencap](./images/log-screencap.png)
