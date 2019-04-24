@@ -7,3 +7,13 @@ spotify-this-song,you don't love me anymore weird al
 spotify-this-song,eat it
 spotify-this-song,eat it weird al
 concert-this,Weird Al
+concert-this,Weird Al
+concert-this,Weird Al
+spotify-this-song,Counting Bodies Like Sheep
+movie-this,Alien: 3 Resurrection
+movie-this,Aliens
+spotify-this-song,you don't love me anymore weird al
+spotify-this-song,you don't love me anymore weird al
+movie-this,Mr. Nobody
+spotify-this-song,The Sign, Ace of Base
+concert-this,Tool
